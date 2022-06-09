@@ -1,0 +1,11 @@
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\cptfrosty\source\repos\TrainingNET\ClientApp\bin\Debug\icons\folder.png

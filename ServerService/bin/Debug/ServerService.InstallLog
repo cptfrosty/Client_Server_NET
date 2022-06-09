@@ -1,0 +1,81 @@
+﻿Выполняется установка сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe.
+Выполняется фиксация сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Устанавливается служба ServerService...
+Служба ServerService успешно установлена.
+Создается исходный EventLog ServerService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Выполняется установка сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Устанавливается служба ServerService...
+Создается исходный EventLog ServerService в журнале Application...
+Выполняется откат для сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника ServerService.
+Выполняется удаление сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Выполняется удаление источника EventLog ServerService.
+Выполняется удаление службы ServerService из системы...
+Служба ServerService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Устанавливается служба ServerService...
+Служба ServerService успешно установлена.
+Создается исходный EventLog ServerService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Выполняется удаление сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Выполняется удаление источника EventLog ServerService.
+Выполняется удаление службы ServerService из системы...
+Служба ServerService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog
+Устанавливается служба ServerService...
+Служба ServerService успешно установлена.
+Создается исходный EventLog ServerService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+   logfile = C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.InstallLog

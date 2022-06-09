@@ -1,0 +1,9 @@
+C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\obj\Debug\ServerService.csprojAssemblyReference.cache
+C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\obj\Debug\ServerService.csproj.CoreCompileInputs.cache
+C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe.config
+C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.exe
+C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\bin\Debug\ServerService.pdb
+C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\obj\Debug\ServerService.exe
+C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\obj\Debug\ServerService.pdb
+C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\obj\Debug\ServerService.ProjectInstaller.resources
+C:\Users\cptfrosty\source\repos\TrainingNET\ServerService\obj\Debug\ServerService.csproj.GenerateResource.cache

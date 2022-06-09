@@ -1,0 +1,7 @@
+C:\Users\cptfrosty\source\repos\TrainingNET\TrainingNET\bin\Debug\TrainingNET.exe.config
+C:\Users\cptfrosty\source\repos\TrainingNET\TrainingNET\bin\Debug\TrainingNET.exe
+C:\Users\cptfrosty\source\repos\TrainingNET\TrainingNET\bin\Debug\TrainingNET.pdb
+C:\Users\cptfrosty\source\repos\TrainingNET\TrainingNET\obj\Debug\TrainingNET.csprojAssemblyReference.cache
+C:\Users\cptfrosty\source\repos\TrainingNET\TrainingNET\obj\Debug\TrainingNET.csproj.CoreCompileInputs.cache
+C:\Users\cptfrosty\source\repos\TrainingNET\TrainingNET\obj\Debug\TrainingNET.exe
+C:\Users\cptfrosty\source\repos\TrainingNET\TrainingNET\obj\Debug\TrainingNET.pdb
